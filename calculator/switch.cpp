@@ -36,6 +36,5 @@ switch (operate)
   break;
 }
   cout << "Value :" <<result<<endl;
-
   return 0; 
 }
